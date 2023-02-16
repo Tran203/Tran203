@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tran203&theme=radical)](https://git.io/streak-stats)
 
- 
+ <!--
  ![Tran203's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tran203&theme=radical&show_icons=true&hide_border=true&layout=compact)
  
-
+ 
+-->
