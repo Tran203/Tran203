@@ -1,8 +1,8 @@
 # Internet-Programming
 ### MVC design pattern, Servlets, Java Server Pages and Enterprise Java Beans (EJBs) to solve problems arising in the software industry.
-
-> The <a href="">Repo</a> Conatins All The Activities and Web Application We Do In Class 
-
+<!--
+> The <a href="">Repo</a> Contains All The Activities and Web Application We Do In Class 
+-->
 
 ## Equipment and Instruments
 - **Java** is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
