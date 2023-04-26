@@ -20,7 +20,7 @@
 development /
 ├── name of webapp/
 │   ├── Web Pages/
-│   │   ├── WEB-INF
+│   │   ├── WEB-INF/
 |   │   │   ├── web.xml
 │   │   ├── page.jsp
 │   ├── src/
