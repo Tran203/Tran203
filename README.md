@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a <b>Computer Science Student at Tshwane University of Technology</b>
-- 🌱 I’m currently learning <b><a href="Internet-Programming.md">Internet Programming</a>,<a href="Android Development.md">Android Development</a> and Database Programming</b>
+- 🌱 I’m currently learning <b><a href="https://github.com/Tran203/portfolio">Internet Programming</a>,<a href="Android Development.md">Android Development</a> and Database Programming</b>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
