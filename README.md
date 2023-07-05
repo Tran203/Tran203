@@ -54,7 +54,10 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tran203&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tran203&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tran203&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tran203&langs_count=5&theme=tokyonight)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tran203&count_private=true&theme=tokyonight&showicons=true)]() -->
 
  <!--
  ![Tran203's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tran203&theme=radical&show_icons=true&hide_border=true&layout=compact)
