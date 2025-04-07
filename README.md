@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a <b>Computer Science Graduate from Tshwane University of Technology</b>
+<!--
 - 🌱 I’m currently learning <b><a href="https://github.com/Tran203/Internet-Programming">Internet Programming</a>,<a href="Android Development.md">Android Development</a> and Database Programming</b>
+-->
+- 🌱 I’m currently revising <b><a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java">Data Structures and Algorithms</a></b> with <b><a href="https://www.youtube.com/KunalKushwaha">Kunal Kushwaha</a> </b>
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
